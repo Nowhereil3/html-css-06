@@ -1485,6 +1485,19 @@ a {
 .reviews-direct--right {
   margin-left: 76px;
 }
+.arrow-right {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff997e;
+  border: 1.5px solid #ffd1c4;
+  position: absolute;
+  top: 36px;
+  left: 223px;
+}
 
 .reviews-direct--css:hover {
   color: #fff;
